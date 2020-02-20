@@ -1,0 +1,22 @@
+/* * {
+  font-size: 1em;
+} */
+
+.rep__image {
+  border-radius: 50%;
+}
+
+.rep__name {
+  font-size: 2em;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.rep__district {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.rep__legislation {
+  margin-top: 0;
+}
